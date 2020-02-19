@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://i0.wp.com/www.surfer.com/wp-content/uploads/2017/12/ZN_7753.jpg");
+  background-size: contain;
+}
+.centered-text {
+  color: yellow;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 150px;
+  float: inherit;
+}
+
